@@ -1,1 +1,22 @@
-
+body {
+	text-decoration: none;
+	margin: 30px 165px;
+	font: 20px sans-serif;
+	line-height: 1.5;
+}
+a {
+	color: blue;
+	text-decoration: none;
+}
+#final-text {
+	text-align: right;
+}
+table {
+	display:inline-block;
+	height:100%;
+	width:100%;
+}
+#final {
+	font-size: 12px;
+	text-align: center;
+}
