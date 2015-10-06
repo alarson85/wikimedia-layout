@@ -4,19 +4,29 @@ body {
 	font: 20px sans-serif;
 	line-height: 1.5;
 }
+
+.box {
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin: 1em;
+}
+
 a {
 	color: blue;
 	text-decoration: none;
 }
+
 #final-text {
 	text-align: right;
 }
-table {
-	display:inline-block;
-	height:100%;
-	width:100%;
-}
+
 #final {
+	clear: left;
 	font-size: 12px;
 	text-align: center;
+}
+
+.bottomLinks {
+	margin: 1em;
 }
