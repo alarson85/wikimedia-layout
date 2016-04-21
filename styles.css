@@ -3,6 +3,7 @@ body {
 	margin: 30px 165px;
 	font: 20px sans-serif;
 	line-height: 1.5;
+	max-width: 1000px;
 }
 
 .box {
